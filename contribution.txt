@@ -1,0 +1,34 @@
+
+Rayan Alajmi (33.3%):
+
+-all View statistics
+-faculty update portfolio: (as profile form) add/edit/delete profile item	
+/ admin add/delete/import/export portfolio
+-admin Send notification 
+
+
+
+Mohammaed Alswailem (33.3%):
+
+- Faculty Request portfolio: (form: title&description)
+-admin Approve portfolio Request: (table)	
+-Search and AJAX
+-admin create/print/save report	
+
+
+
+
+Abdullah Alshoshan (33.3%):
+
+-Anonymous Homepage: search sign in/out
+-all search results:	
+-all View portfolio:	
+-Anonymous Sign up:	
+
+
+
+
+
+			
+
+
